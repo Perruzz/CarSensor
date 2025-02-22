@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/cabin_temperature_sensor_icon.svg</file>
+        <file>Icons/speed_sensor_icon.svg</file>
+        <file>Icons/tire_pressure_sensor_icon.svg</file>
+        <file>Icons/open_icon.svg</file>
+        <file>Icons/save_as_icon.svg</file>
+        <file>Icons/search_icon.svg</file>
+        <file>Icons/simulate_icon.svg</file>
+        <file>Icons/edit_icon.svg</file>
+        <file>Icons/delete_icon.svg</file>
+        <file>Icons/app_icon.svg</file>
+        <file>Icons/car_key_cursor_icon.svg</file>
+    </qresource>
+</RCC>
+
